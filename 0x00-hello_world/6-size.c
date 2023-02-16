@@ -1,4 +1,4 @@
-#inlxude <stdio.h>
+#include <stdio.h>
 /**
  * main - main block
  * return: 0
